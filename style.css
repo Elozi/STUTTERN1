@@ -1,0 +1,7 @@
+
+.parent{
+width: 900px;
+height: 500px;
+outline: 3px solid black;
+display: grid;
+}
