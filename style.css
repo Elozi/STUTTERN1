@@ -1,0 +1,57 @@
+*{
+    border: 0;
+   padding: 0;
+}
+header{
+    height: 100px;
+    background-color: rgb(184, 230, 230);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    
+}
+ul{
+    display: flex;
+    list-style-type: none;
+    align-items: center;
+
+
+}
+ul li a{
+    padding: 0 20px;
+    color: red;
+    display: inline-block;
+}
+main{
+    margin: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.left{
+    margin: 0 20px;
+    width: 30%;
+
+}
+.dig{
+    font-size: 25px;
+    color: blue;
+    text-transform: uppercase;
+  
+}
+.mar{
+    font-size: 20px;
+    text-transform: uppercase;
+    letter-spacing: 16px;
+}
+button{
+    background-color: aqua;
+    border-radius: 30px;
+    border: 0;
+    padding: 15px 25px;
+    
+}
+p{
+    line-height: 25px;
+    
+}
